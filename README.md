@@ -1,6 +1,6 @@
-<h1 align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%233386F7&duration=4000&center=true&vCenter=true&lines=Hi%2C+i+am+Quentin+!+%F0%9F%91%8B;I'm+a+french+web+developer;Feel+free+to+contact+me+!)](https://git.io/typing-svg)
-</h1>
+<h1 align="center">Hi, I'm Quentin Lavieville 👋</h1>
+
+<br>
 
 <p align="center">
   I'm Quentin Lavieville, a french web developer. I love web development, but also music and video games.<br>
